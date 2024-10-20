@@ -1,4 +1,3 @@
-// Naoyuki Christopher Higaki [ST10462415]
 // Task Class
 package easykanban;
 public class Task {
