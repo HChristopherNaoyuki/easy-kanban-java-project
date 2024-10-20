@@ -1,4 +1,3 @@
-// Naoyuki Christopher Higaki [ST10462415]
 // Main Application
 package easykanban;
 import javax.swing.*;
