@@ -1,4 +1,3 @@
-// Naoyuki Christopher Higaki [ST10462415]
 // Unit Test
 package easykanban;
 public class TaskTest {
