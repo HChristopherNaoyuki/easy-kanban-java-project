@@ -1,4 +1,4 @@
-# EasyKanban
+# Easy Kanban
 
 EasyKanban is a simple task management application designed to help users organize and track their tasks efficiently. It features a user-friendly interface built with Java Swing, allowing users to log in, add tasks, and view task details.
 
