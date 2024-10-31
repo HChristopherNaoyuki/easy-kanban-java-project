@@ -19,7 +19,7 @@ EasyKanban is a simple task management application designed to help users organi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/HChristopherNaoyuki/PROG5121-POE.git
+   git clone https://github.com/HChristopherNaoyuki/easy-kanban-java-project.git
    cd easykanban
    ```
 
